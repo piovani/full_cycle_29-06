@@ -1,6 +1,6 @@
 # full_cycle_29-06
 
-    This project is part of the full cycle marathon: https://maratona.fullcycle.com.br/
+This project is part of the full cycle marathon: https://maratona.fullcycle.com.br/
 
 # Objective:
 
