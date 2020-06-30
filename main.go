@@ -1,7 +1,7 @@
 package main
 
-func main()  {
+func main() {
 
-	print("Hello from Go")
-	
+	print("Hello Full Cycle")
+
 }
